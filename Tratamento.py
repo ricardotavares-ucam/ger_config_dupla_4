@@ -15,3 +15,12 @@ class Tratamento:
         
         def set_data_fin(self, data_fin):
             self.data_fin = data_fin
+        
+        def vis_trat(self):
+            return ""
+        
+        def con_Trat(self):
+            return ""
+
+        def reg_Trat(self):
+            return ""
