@@ -17,10 +17,10 @@ class Tratamento:
             self.data_fin = data_fin
         
         def vis_trat(self):
-            return ""
+            return "Visualizar todos os tratamentos já realizados por um Animal"
         
         def con_Trat(self):
-            return ""
+            return "Consultar um determinado tratamento"
 
         def reg_Trat(self):
-            return ""
+            return "Abrir um novo tratamento"
